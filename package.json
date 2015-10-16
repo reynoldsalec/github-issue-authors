@@ -1,0 +1,17 @@
+{
+  "name": "reynoldsalec",
+  "version": "1.0.0",
+  "description": "Parse Github issues and extract authors.",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.2",
+    "octonode": "^0.7.4",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alec Reynolds",
+  "license": "ISC"
+}
